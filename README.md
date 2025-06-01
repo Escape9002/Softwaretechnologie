@@ -1,6 +1,6 @@
-# Softwaretechnologie
+# [[Softwaretechnologie]]
 Zusammenfassung des Softwaretechnolgie Kurses. 
-Das wird zuerst eine Link-Sammlung, später vlt auch etwas erklärender Text. 
+Das wird zuerst eine [[Link-Sammlung]], später vlt auch etwas erklärender Text. 
 
 Wenn ihr links und Tipps etc. pp habt, öffnet gerne einen Issue oder eine Pull-Request!
 
