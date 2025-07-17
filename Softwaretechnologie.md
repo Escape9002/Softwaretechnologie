@@ -9,3 +9,5 @@ Ich werde die verschiedenen Konzepte anhand eines Discord-Bots erklären. Dieser
 
 # Klassen und Objekte
 ![[Klassen und Objekte]]
+# Usecase-Diagramme
+![[Usecase-Diagramme]]
