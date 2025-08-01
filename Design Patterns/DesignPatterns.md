@@ -20,6 +20,7 @@ Danke @Tilde für die Liste an Patterns, die überhaupt behandelt werden:
 ## Factory Method
 ![[Factory]]
 # Singleton
+![[Singleton]]
 # Adapter
 # Decorator
 # State

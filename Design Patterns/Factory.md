@@ -1,12 +1,14 @@
-We dont care how something is achieved but its always the same thing done.
-We create a factory which builds objects capable of doing Chaos but the implementation for Chaos is within the object itself.
+We dont care how something is achieved but its always the same thing done. But we have a lot of things doing that.
+
+We create a factory which can return a product. 
+The product type is decided within the factory and created by a product-builder (Creator).
 
 Requirements:
 - The to-create objects have to share a [[Interface]]
-- 
+- Each object needs a specific Creator
 
 ```java
-// The Product declares the interface, which is common to all objects.
+// Common interface for all products
 interface IMU {
     int[] getData();
 }
