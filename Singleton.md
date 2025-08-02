@@ -1,3 +1,5 @@
+[refactoring guru - singleton](https://refactoring.guru/design-patterns/singleton)
+
 Ensures you only have one instance of something across the entire software. 
 > Thou shall not create two hardware instances if you only have one.
 

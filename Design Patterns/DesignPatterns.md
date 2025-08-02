@@ -8,7 +8,17 @@ Danke @Tilde für die Liste an Patterns, die überhaupt behandelt werden:
 ![[Composite]]
 
 
+## Adapter
+![[Adapter]]
+
+## Decorator
+![[Decorator]]
+
+
 # Behavioral Patterns
+
+## Template Method
+![[Template Method]]
 ## Strategy
 ![[Strategy]]
 ## Iterator
@@ -16,14 +26,25 @@ Danke @Tilde für die Liste an Patterns, die überhaupt behandelt werden:
 ## Observer
 ![[Observer]]
 
+
+
+
+## State
+![[State]]
+
+
 # Creational Patterns
 ## Factory Method
 ![[Factory]]
-# Singleton
+## Singleton
 ![[Singleton]]
-# Adapter
-# Decorator
-# State
-# Template Method
+
+
+
+
+
+---
+
 
 # MVC
+![[MVC]]

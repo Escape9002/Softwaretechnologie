@@ -1,3 +1,5 @@
+[refactoring guru - factory](https://refactoring.guru/design-patterns/factory-method)
+
 We dont care how something is achieved but its always the same thing done. But we have a lot of things doing that.
 
 We create a factory which can return a product. 
