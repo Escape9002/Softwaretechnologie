@@ -7,6 +7,8 @@ Ich werde die verschiedenen Konzepte anhand eines Discord-Bots erklären. Dieser
 - Whitelisten von Spielern für Spiele-Server
 - Speichern von Koordinaten für Minecraft-Server
 
+# Design Patterns
+Klassen sollte man mit [[DesignPatterns]] aufbauen, damit alles schön bleibt!
 # Klassen und Objekte
 ![[Klassen und Objekte]]
 # Usecase-Diagramme
