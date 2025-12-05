@@ -8,3 +8,5 @@ Danke!
 
 # Tooling
 Ich benutze [Obsidian](https://obsidian.md/), wenn ihr das auch tut, funktionieren etwaige verweise die ich schreibe garantiert. Ansonsten ist und bleibt es Markdown!
+
+# Eine Gesamt-zusammenfassung: [[gptSlop]]
